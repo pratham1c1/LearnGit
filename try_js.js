@@ -1,3 +1,5 @@
+// Added a single comment
+
 function add() {
     
     var i = 0;
