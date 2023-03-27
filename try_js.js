@@ -1,4 +1,4 @@
-// comments deleted
+// comments in second
 
 function add() {
     
