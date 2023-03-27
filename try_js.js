@@ -1,5 +1,5 @@
-// Added a single comment
-// added special comment
+// comments deleted
+
 function add() {
     
     var i = 0;
